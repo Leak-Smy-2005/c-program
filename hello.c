@@ -1,13 +1,9 @@
 #include <stdio.h>
 
 int main() {
-/* my first program in C */
+
 int i=0,b=0;
-/*for ( i = 0; i <= 10; i++)
-{
-    printf("Hello, World! \n");
-    b++;
-}*/
+
 int day = 7;
 
 switch (day) {
